@@ -1,3 +1,19 @@
+# React Social Media WebApp using TypeScript
+## Major Features of the WebApp
+1. User Authentication Using Google Auth. through Firebase.
+2. Ability to create posts containing a title and a description.
+3. Page to show all user posts.
+4. Ability to like/dislike posts.
+
+### Techstack Used: ReactJS | TypeScript | Firebase
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
